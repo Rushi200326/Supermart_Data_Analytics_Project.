@@ -13,6 +13,6 @@ Tools Used
 4. Interactive Dashboard (Power Bi)
 
 # Key Insights 
-> High Discounts Negatively Impact Profit
-> Certain Sub-Categories Consistently Generate Loss
-> Regional Performance Varies Significantly   
+1. High Discounts Negatively Impact Profit
+2. Certain Sub-Categories Consistently Generate Loss
+3. Regional Performance Varies Significantly   
