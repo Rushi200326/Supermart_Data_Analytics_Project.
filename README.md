@@ -12,7 +12,11 @@ Tools Used
 3. Business Insights
 4. Interactive Dashboard (Power Bi)
 
-# Key Insights 
-1. High Discounts Negatively Impact Profit
-2. Certain Sub-Categories Consistently Generate Loss
-3. Regional Performance Varies Significantly   
+# Key Insights
+
+1. Higher discounts are associated with lower profit, and several discounted orders result in losses.
+2. Losses are concentrated in a small number of sub-categories rather than being spread across all products.
+3. Sales and profit performance vary across regions, with some regions generating higher sales but lower profit.
+4. Standard Class shipping contributes more profit compared to faster shipping modes, which show lower margins.
+5. Average sales per customer differ by region, indicating uneven customer spending patterns.
+6. Sales increase over time, but profit shows fluctuations, including loss periods.
